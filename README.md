@@ -7,4 +7,5 @@ If you set the `--print` flag then it will print the post title and link to the 
 
 ## simple-http-server
 Doesn't really do too much, just responds depending on the method and path you're trying to access.
-You can run the server with `node index.mjs` and then using something like `Httpie` do a post method: `http POST :8080/api/data name=Robert likes=Node`.
+You can run the server with `node index.mjs` and then using something like `Httpie` do a post method: </br>
+`http POST :8080/api/data name=Robert likes=Node`.
